@@ -12,7 +12,7 @@
     padding: 40px 35px 30px 34px;
     background: var(--tp-common-white);
     border-radius: 15px;
-    box-shadow: 0px 0px 10px 3px rgba(5, 13, 54, 0.05);
+    box-shadow: 0 0 10px 3px rgba(5, 13, 54, 0.05);
     // box-shadow: 5px 6px 30px 10px rgba(5, 13, 54, 0.05);
     &__avatar {
         position: absolute;
@@ -76,7 +76,7 @@
     & .slick-arrow {
         height: 60px;
         width: 60px;
-        background:#FFF0EE;
+        background:var(--tp-background-1);
         color: var(--tp-heading-secondary);
         border-radius: 50px;
         font-size: 50px;

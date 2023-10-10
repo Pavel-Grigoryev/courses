@@ -8,6 +8,7 @@
     border: 1px solid rgba(119, 124, 144, 0.1);
     border-radius: 10px;
     transition: .3s;
+    height: calc(100% - 60px);
     &__thumb {
         border-radius: 10px;
         transform: scale(1);

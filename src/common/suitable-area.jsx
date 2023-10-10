@@ -7,20 +7,20 @@ const suitable_data = [
     id: 1,
     title: (
       <>
-        Do you want to <span>Learn</span> here?
+        Do you want to <span>learning</span> online?
       </>
     ),
-    des: <>Dramatically supply transpa deliverables before & you.</>,
+    des: <>Get access to educational content, materials and resources right now.</>,
     img: "/assets/img/bg/suit-bg-01.png",
   },
   {
     id: 2,
     title: (
       <>
-        Do you want to <span>Learn</span> here?
+        Do you want to <span>learning</span> offline?
       </>
     ),
-    des: <>Dramatically supply transpa deliverables before & you.</>,
+    des: <>Join our vibrant classes where you'll connect face-to-face with passionate instructors and collaborate with fellow learners.</>,
     img: "/assets/img/bg/suit-bg-02.png",
   },
 ];
@@ -29,7 +29,7 @@ const SuitableArea = ({ style_2}) => {
   return (
     <>
       <section
-        className={`suitable-area  ${
+        className={`suitable-area theme-bg-2 ${
           style_2 ? "bg-bottom grey-bg pt-115" : ""
         } pb-90 wow fadeInUp`}
         data-wow-duration="1s"

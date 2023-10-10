@@ -12,7 +12,7 @@ const choose_data = {
       E-Pora Online learning
     </>
   ),
-  des: 'Dramatically supply transparent deliverables before & can backward comp internal or "organic" sources.',
+  des: 'Explore the compelling factors that make E-Pora Online Learning an ideal choice for your educational requirements.',
 
   choose_list: [
     { title: "Increasing Your Learning Skills" },
@@ -27,7 +27,7 @@ const ChooseArea = () => {
   return (
     <>
       <section
-        className="choose-area pb-90 wow fadeInUp"
+        className="choose-area pb-90 wow fadeInUp theme-bg-2"
         data-wow-duration=".8s"
         data-wow-delay=".4s"
       >

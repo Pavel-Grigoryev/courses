@@ -121,11 +121,11 @@ const OurCourse = () => {
                     <div key={i} className="col-xl-4 col-lg-6 col-md-6">
                       <div className="tpcourse mb-40">
                         <div className="tpcourse__thumb p-relative w-img fix">
-                          <Link href="/course-details">
+                          <Link href="/course-details/course-details">
                             <img src={item.img} alt={item.title} />
                           </Link>
                           <div className="tpcourse__tag">
-                            <Link href="/course-details">
+                            <Link href="/course-details/course-details">
                               <i className="fi fi-rr-heart"></i>
                             </Link>
                           </div>
@@ -139,7 +139,7 @@ const OurCourse = () => {
                               <li>
                                 <Link
                                   className={item.ct_color}
-                                  href="/course-details"
+                                  href="/course-details/course-details"
                                 >
                                   {item.course_title}
                                 </Link>
@@ -147,7 +147,7 @@ const OurCourse = () => {
                               <li>
                                 <Link
                                   className={item.cn_color}
-                                  href="/course-details"
+                                  href="/course-details/course-details"
                                 >
                                   {item.course_name}
                                 </Link>
@@ -211,11 +211,11 @@ const OurCourse = () => {
                     <div key={i} className="col-xl-4 col-lg-6 col-md-6">
                       <div className="tpcourse mb-40">
                         <div className="tpcourse__thumb p-relative w-img fix">
-                          <Link href="/course-details">
+                          <Link href="/course-details/course-details">
                             <img src={item.img} alt={item.title} />
                           </Link>
                           <div className="tpcourse__tag">
-                            <Link href="/course-details">
+                            <Link href="/course-details/course-details">
                               <i className="fi fi-rr-heart"></i>
                             </Link>
                           </div>
@@ -229,7 +229,7 @@ const OurCourse = () => {
                               <li>
                                 <Link
                                   className={item.ct_color}
-                                  href="/course-details"
+                                  href="/course-details/course-details"
                                 >
                                   {item.course_title}
                                 </Link>
@@ -237,7 +237,7 @@ const OurCourse = () => {
                               <li>
                                 <Link
                                   className={item.cn_color}
-                                  href="/course-details"
+                                  href="/course-details/course-details"
                                 >
                                   {item.course_name}
                                 </Link>
@@ -301,11 +301,11 @@ const OurCourse = () => {
                     <div key={i} className="col-xl-4 col-lg-6 col-md-6">
                       <div className="tpcourse mb-40">
                         <div className="tpcourse__thumb p-relative w-img fix">
-                          <Link href="/course-details">
+                          <Link href="/course-details/course-details">
                             <img src={item.img} alt={item.title} />
                           </Link>
                           <div className="tpcourse__tag">
-                            <Link href="/course-details">
+                            <Link href="/course-details/course-details">
                               <i className="fi fi-rr-heart"></i>
                             </Link>
                           </div>
@@ -319,7 +319,7 @@ const OurCourse = () => {
                               <li>
                                 <Link
                                   className={item.ct_color}
-                                  href="/course-details"
+                                  href="/course-details/course-details"
                                 >
                                   {item.course_title}
                                 </Link>
@@ -327,7 +327,7 @@ const OurCourse = () => {
                               <li>
                                 <Link
                                   className={item.cn_color}
-                                  href="/course-details"
+                                  href="/course-details/course-details"
                                 >
                                   {item.course_name}
                                 </Link>
@@ -391,11 +391,11 @@ const OurCourse = () => {
                     <div key={i} className="col-xl-4 col-lg-6 col-md-6">
                       <div className="tpcourse mb-40">
                         <div className="tpcourse__thumb p-relative w-img fix">
-                          <Link href="/course-details">
+                          <Link href="/course-details/course-details">
                             <img src={item.img} alt={item.title} />
                           </Link>
                           <div className="tpcourse__tag">
-                            <Link href="/course-details">
+                            <Link href="/course-details/course-details">
                               <i className="fi fi-rr-heart"></i>
                             </Link>
                           </div>
@@ -409,7 +409,7 @@ const OurCourse = () => {
                               <li>
                                 <Link
                                   className={item.ct_color}
-                                  href="/course-details"
+                                  href="/course-details/course-details"
                                 >
                                   {item.course_title}
                                 </Link>
@@ -417,7 +417,7 @@ const OurCourse = () => {
                               <li>
                                 <Link
                                   className={item.cn_color}
-                                  href="/course-details"
+                                  href="/course-details/course-details"
                                 >
                                   {item.course_name}
                                 </Link>
@@ -480,11 +480,11 @@ const OurCourse = () => {
                     <div key={i} className="col-xl-4 col-lg-6 col-md-6">
                       <div className="tpcourse mb-40">
                         <div className="tpcourse__thumb p-relative w-img fix">
-                          <Link href="/course-details">
+                          <Link href="/course-details/course-details">
                             <img src={item.img} alt={item.title} />
                           </Link>
                           <div className="tpcourse__tag">
-                            <Link href="/course-details">
+                            <Link href="/course-details/course-details">
                               <i className="fi fi-rr-heart"></i>
                             </Link>
                           </div>
@@ -498,7 +498,7 @@ const OurCourse = () => {
                               <li>
                                 <Link
                                   className={item.ct_color}
-                                  href="/course-details"
+                                  href="/course-details/course-details"
                                 >
                                   {item.course_title}
                                 </Link>
@@ -506,7 +506,7 @@ const OurCourse = () => {
                               <li>
                                 <Link
                                   className={item.cn_color}
-                                  href="/course-details"
+                                  href="/course-details/course-details"
                                 >
                                   {item.course_name}
                                 </Link>
@@ -570,11 +570,11 @@ const OurCourse = () => {
                     <div key={i} className="col-xl-4 col-lg-6 col-md-6">
                       <div className="tpcourse mb-40">
                         <div className="tpcourse__thumb p-relative w-img fix">
-                          <Link href="/course-details">
+                          <Link href="/course-details/course-details">
                             <img src={item.img} alt={item.title} />
                           </Link>
                           <div className="tpcourse__tag">
-                            <Link href="/course-details">
+                            <Link href="/course-details/course-details">
                               <i className="fi fi-rr-heart"></i>
                             </Link>
                           </div>
@@ -588,7 +588,7 @@ const OurCourse = () => {
                               <li>
                                 <Link
                                   className={item.ct_color}
-                                  href="/course-details"
+                                  href="/course-details/course-details"
                                 >
                                   {item.course_title}
                                 </Link>
@@ -596,7 +596,7 @@ const OurCourse = () => {
                               <li>
                                 <Link
                                   className={item.cn_color}
-                                  href="/course-details"
+                                  href="/course-details/course-details"
                                 >
                                   {item.course_name}
                                 </Link>

@@ -40,7 +40,7 @@ const BrandArea = ({ style_2, style_3, style_1, style_about }) => {
   return (
     <>
       <section
-        className={`brand-area ${style_1 ? "pb-110" : ""} ${ style_2 ? "pt-110" : "" }  ${style_3 ? "pt-110 " : ""} ${style_about ? "pb-115" : ""} wow fadeInUp`}
+        className={`brand-area ${style_1 ? "pb-110" : ""} ${ style_2 ? "pt-110" : "" }  ${style_3 ? "pt-110 " : ""} ${style_about ? "pb-115" : ""} wow fadeInUp theme-bg-2`}
         data-wow-duration="1s"
         data-wow-delay=".4s"
       >

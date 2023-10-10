@@ -1,7 +1,7 @@
 import Link from "next/link";
 import React from "react";
 
-// choose data 
+// choose data
 const choose_data = {
 title: "Why Choose Us",
 sub_title: "Why You Choose Our E-Pora Online learning",

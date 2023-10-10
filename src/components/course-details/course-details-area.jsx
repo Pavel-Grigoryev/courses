@@ -50,8 +50,8 @@ const CourseDetailsArea = () => {
                      </div>
                      <div className="c-details-about mb-40">
                         <h5 className="tp-c-details-title mb-20">About This Course</h5>
-                        <p>Synergistically foster 24/7 leadership rather than scalable platforms. Conveniently visualize installed base products before interactive results. Collaboratively restore corporate experiences and open-source applications. Proactively mesh cooperative growth strategies for covalent opportunities. Competently create efficient markets through best-of-breed potentialities.</p>
-                        <p>Proactively initiate corporate vortals via bricks-and-clicks relationships. Dynamically envisioneer cutting-edge paradigms via client-centered relationships. Globally repurpose backward-compatible growth strategies and fully tested e-services. Energistically promote stand-alone models whereas effective solutions. Quickly target low-risk high-yield e-markets via web-enabled networks.</p>
+                        <p>In this course, you'll embark on a transformative journey into the world of web design, honing your skills to craft captivating user interfaces and seamless user experiences. Whether you're a novice looking to start your design career or a seasoned professional seeking to enhance your skills, this course is designed to empower you with the knowledge and expertise needed to excel in the dynamic field of UI/UX design.</p>
+                        <p>Throughout this course, you'll gain hands-on experience by working on real-world projects that will challenge your creativity and problem-solving abilities. Our comprehensive curriculum covers every aspect of UI/UX design, from the fundamentals to the latest industry trends and emerging technologies.</p>
                      </div>
                      <div className="cor-details-instructor mb-40">
                         <h4 className="tp-c-details-title mb-40">Instructor</h4>
@@ -85,7 +85,7 @@ const CourseDetailsArea = () => {
                               </div>
                            </div>
                         </div>
-                        <p>Synergistically foster 24/7 leadership rather than scalable platforms. Conveniently visualize installed base products before interactive results. Collaboratively restore corporate experiences and open-source applications. Proactively mesh cooperative growth strategies.</p>
+                        <p>Hossain Mahmud is not just an expert, he's an award-winning visionary in the realms of chemical engineering and user interface design. His passion for these disciplines has driven him to achieve excellence and recognition on both national and international stages. His journey began with a profound love for science and technology, which eventually led him to become a thought leader in chemical processes and user-centric design.</p>
                      </div>
                      <div className="c-details-review pb-15">
                         <div className="c-review-title-wrapper">
@@ -93,7 +93,7 @@ const CourseDetailsArea = () => {
                         </div>
                         <div className="course-reviewer-item-wrapper">
 
-                              {review_content.map((item, i) => 
+                              {review_content.map((item, i) =>
                                  <div key={i} className="course-reviewer-item d-flex mb-25">
                                  <div className="course-review-ava">
                                     <img src={item.img} alt="details-avata" />
@@ -113,7 +113,7 @@ const CourseDetailsArea = () => {
                                     </div>
                                  </div>
                               </div>
-                                 
+
                                  )
                               }
 
@@ -133,8 +133,8 @@ const CourseDetailsArea = () => {
                         <div className="cd-video-price">
                            <h3 className="pricing-video text-center mb-15">$29.99</h3>
                            <div className="cd-pricing-btn text-center mb-30">
-                              <Link className="tp-vp-btn" href="/course-details">Add To Cart</Link>
-                              <Link className="tp-vp-btn-green" href="/course-details">Enroll Now</Link>
+                              <Link className="tp-vp-btn" href="/course-details/course-details">Add To Cart</Link>
+                              <Link className="tp-vp-btn-green" href="/course-details/course-details">Enroll Now</Link>
                            </div>
                         </div>
                         <div className="cd-information mb-35">

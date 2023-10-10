@@ -8,25 +8,25 @@ const instructor_info = [
     id: 1,
     img: "/assets/img/bg/instructor-bg-01.jpg",
     name: "Devon Lane",
-    title: "Instructor",
+    title: "SEO Expert",
   },
   {
     id: 2,
     img: "/assets/img/bg/instructor-bg-02.jpg",
     name: "Jane Cooper",
-    title: "Instructor",
+    title: "English Teacher",
   },
   {
     id: 3,
     img: "/assets/img/bg/instructor-bg-03.jpg",
     name: "Courtney Henry",
-    title: "Instructor",
+    title: "Career Coach",
   },
   {
     id: 4,
     img: "/assets/img/bg/instructor-bg-04.jpg",
     name: "Devon Lane",
-    title: "Instructor",
+    title: "SEO Expert",
   },
 ];
 
@@ -106,13 +106,13 @@ const setting = {
 };
 
 const InstructorArea = ({ style_2 }) => {
- 
+
   const sliderRef = useRef(null);
 
   return (
     <>
       <section
-        className="instructor-area pt-110 pb-110 wow fadeInUp"
+        className="instructor-area pt-110 pb-110 wow fadeInUp theme-bg-2"
         data-wow-duration="1s"
         data-wow-delay=".4s"
       >

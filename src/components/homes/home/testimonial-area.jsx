@@ -1,4 +1,4 @@
-import React, { useRef } from "react";
+import React, {useRef} from "react";
 import Slider from "react-slick";
 
 const testimonial_data = [
@@ -9,8 +9,7 @@ const testimonial_data = [
     title: "Sr. UX/UI Designer",
     des: (
       <>
-        Dramatically supply transparent deliverab before & you backward comp
-        internal or "organic" sources.
+        Dive deep into the world of UX/UI design and elevate your career to new heights. Our courses empower you to create user-centric, visually stunning experiences that captivate audiences.
       </>
     ),
   },
@@ -21,8 +20,7 @@ const testimonial_data = [
     title: "Software Engineer",
     des: (
       <>
-        Dramatically supply transparent deliverab before & you backward comp
-        internal or "organic" sources.
+        Ready to code your future? Join our software engineering courses and ignite your career in the tech world!
       </>
     ),
   },
@@ -33,8 +31,7 @@ const testimonial_data = [
     title: "Content Writer",
     des: (
       <>
-        Dramatically supply transparent deliverab before & you backward comp
-        internal or "organic" sources.
+        Unlock the potential of words and creativity with our content writing courses.
       </>
     ),
   },
@@ -45,8 +42,7 @@ const testimonial_data = [
     title: "Content Writer",
     des: (
       <>
-        Dramatically supply transparent deliverab before & you backward comp
-        internal or "organic" sources.
+        Unlock the potential of words and creativity with our content writing courses.
       </>
     ),
   },
@@ -60,6 +56,7 @@ const setting = {
   slidesToScroll: 1,
   arrows: false,
   dots: false,
+  // adaptiveHeight: true,
   responsive: [
     {
       breakpoint: 1024,

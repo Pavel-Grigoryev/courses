@@ -12,8 +12,7 @@ const HeroBanner = () => {
                      <div className="hero-content">
                         <span>Learn New Skills & Popular Courses</span>
                         <h2 className="hero-title mb-35">For Every Student, Every <i>Classroom</i>.</h2>
-                        <p>Dramatically supply transparent deliverables before backward<br />comp internal or "organic"
-                           sources. Competently leverage other.</p>
+                        <p>Discover a World of Possibilities,  our mission is to provide <br />a platform that embraces diversity, inclusivity, and individuality.</p>
                         <div className="tp-banner-btn">
                            <Link href="/course-list" className="tp-btn">Explore Courses</Link>
                         </div>

@@ -44631,14 +44631,14 @@ i[class*=" fi-ss-"]:before, i[class^=fi-ss-]:before, span[class*=fi-ss-]:before,
   --tp-common-white: #ffffff;
   --tp-common-black: #000;
   --tp-heading-primary: #050D36;
-  --tp-heading-secondary: #FF6652;
+  --tp-heading-secondary: #9370DB;
   --tp-heading-b-light: #050D36;
   --tp-grey-1: #F8FAFA;
   --tp-grey-2: #F5F6F8;
   --tp-text-body: #000;
   --tp-text-1: #000;
   --tp-text-2: #777C90;
-  --tp-theme-1: #FF6652;
+  --tp-theme-1: #9370DB;
   --tp-theme-2: #F7F8F9;
   --tp-border-1: #fff;
   --tp-border-2: #245D51;
@@ -44710,7 +44710,7 @@ i[class*=" fi-ss-"]:before, i[class^=fi-ss-]:before, span[class*=fi-ss-]:before,
 }
 
 /*---------------------------------
-    typography css start 
+    typography css start
 ---------------------------------*/
 body {
   font-family: var(--tp-ff-body);
@@ -44890,7 +44890,7 @@ input[type=color] {
 }
 
 /*---------------------------------
-    common classes css start 
+    common classes css start
 ---------------------------------*/
 img {
   max-width: 100%;
@@ -44958,7 +44958,7 @@ img {
 }
 
 /*----------------------------------------
-    Body Overlay 
+    Body Overlay
 -----------------------------------------*/
 .body-overlay {
   background-color: rgba(var(--tp-common-black), 0.5);

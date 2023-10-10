@@ -27,7 +27,7 @@ const about_info = {
     img_3: "/assets/img/about/about-shape-02.png",
     about_title: "About Our Courses",
     sub_title:"Explore Thousands of Creative Classes.",
-    des: <>Dramatically supply transparent deliverables beforese backward comp internal or "organic" sources. Comp  transparent leverage other.</>,
+    des: <>Our curated collection of courses offers you the opportunity to explore a wide variety of creative classes that will inspire and empower you in your pursuit of personal and professional growth.</>,
     about_btn: "Read More"
 }
 
@@ -37,7 +37,7 @@ const AboutArea = () => {
   return (
     <>
       <section
-        className="tp-about-area pt-120 pb-90 wow fadeInUp"
+        className="tp-about-area pt-120 pb-90 wow fadeInUp theme-bg-2"
         data-wow-duration="1.5s"
         data-wow-delay=".4s"
       >
@@ -55,7 +55,7 @@ const AboutArea = () => {
                       className={item.cls}
                     />
                   ))}
-                
+
                 </div>
                 <div className="tp-about-shape  d-none d-xl-block">
                   <img
